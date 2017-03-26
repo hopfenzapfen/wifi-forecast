@@ -1,0 +1,11 @@
+Python packages:
+
+Python 2.7
+
+sudo pip install scipy
+
+sudo apt install aircrack-ng
+
+interface to monitoring mode
+
+airmon-ng start <interface>
